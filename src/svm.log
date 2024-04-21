@@ -1,0 +1,19 @@
+Precision: 0.9023
+Recall: 0.9023
+f1-score: 0.9023
+                 precision    recall  f1-score   support
+
+currentPolitics       0.86      0.86      0.86      5000
+      education       0.92      0.91      0.91      5000
+        finance       0.91      0.89      0.90      5000
+           game       0.95      0.94      0.94      5000
+  houseProperty       0.92      0.92      0.92      5000
+     recreation       0.88      0.93      0.90      5000
+        society       0.87      0.84      0.85      5000
+          sport       0.98      0.97      0.97      5000
+          stock       0.87      0.89      0.88      5000
+     technology       0.88      0.89      0.88      5000
+
+       accuracy                           0.90     50000
+      macro avg       0.90      0.90      0.90     50000
+   weighted avg       0.90      0.90      0.90     50000
